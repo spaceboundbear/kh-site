@@ -1,8 +1,8 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const FrequentlyAsked = () => {
+const Gummi = () => {
   <div></div>;
 };
 
-export default FrequentlyAsked;
+export default Gummi;

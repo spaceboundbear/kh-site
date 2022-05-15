@@ -1,5 +1,4 @@
 Kingdom Hearts Final Mix Beginner Any% Menu Notes 
-By Violin
 
 After first save point
 Items
@@ -46,11 +45,15 @@ Leave Donald and Goofy in Party
  Halloween Town Lab (after forced menu)
 Give both of Jack’s Ethers to Sora
 Use Power Up on Sora
+
+
 Halloween Town, After LSB
 Equipment
 Sora: White Fang over Ray of Light
 Abilities
 Sora: Equip Air Combo Plus
+
+
 Neverland (forced menu)
 Keep Donald and Goofy in Party
 Neverland, after Green Trinity, before Anti Sora (optional)
@@ -76,6 +79,8 @@ Abilities
 Sora: Equip Guard and Ars Arcanum
 Shared Abilities
 Equip Glide
+
+
 Gummi Menu
 Remove Fira-G and Equip Flare-G
 Save and exit
@@ -84,8 +89,12 @@ Keep Donald and Goofy in Party
 World Map; Gummi Menu; after Traverse Town
 Equip Haste2-G
 Save and exit
+
+
 Hollow Bastion 2 (forced menu)
 Donald > Beast
+
+
 Hollow Bastion 2 (on the big elevator, before the Heartless spawn)
 Equipment
 Sora: Equip Oathkeeper
@@ -102,14 +111,21 @@ Sora: Equip Omega Arts over Ray of Light
 End of the World, after Angels fight
 Items
 Stock > Use Cottage
+
+
+
 End of the World, after Behemoth 2
 Equipment
 Sora: Equip Ray of Light over Raven’s Claw
+
+
 End of the World, after Chernabog
 Items
 Add Megalixir to Sora’s inventory (if you use a Megalixir for Dragon Maleficent)
 Shared Abilities
 Equip Superglide
+
+
 End of the World, in Final Rest
 Items
 Sora: Equip all Elixirs and Megalixirs
